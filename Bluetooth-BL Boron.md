@@ -1,4 +1,4 @@
-# Bluetooth Fix for BunsenLabs After Debian 13 Live Session
+# Setting Up Bluetooth for BunsenLabs 
 
 ## Quick Commands
 
@@ -34,3 +34,4 @@ sudo apt purge bluez* blueman pipewire* && sudo apt install bluez blueman pipewi
 
 # 8. Check Logs
 dmesg | grep -i blue
+
