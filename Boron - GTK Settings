@@ -1,0 +1,16 @@
+1 [Settings]
+ 2 gtk-theme-name=Boron-aqua
+ 3 gtk-icon-theme-name=Numix-Bunsen-Circle-aqua
+ 4 gtk-font-name=Sans 12  # Changed from 10 to 12
+ 5 gtk-cursor-theme-name=DMZ-White
+ 6 gtk-cursor-theme-size=24  # More reasonable cursor size
+ 7 gtk-toolbar-style=GTK_TOOLBAR_ICONS
+ 8 gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR  # Changed from SMALL
+ 9 gtk-button-images=0
+10 gtk-menu-images=1
+11 gtk-enable-event-sounds=0
+12 gtk-enable-input-feedback-sounds=0
+13 gtk-xft-antialias=1
+14 gtk-xft-hinting=1
+15 gtk-xft-hintstyle=hintslight
+16 gtk-xft-rgba=rgb
