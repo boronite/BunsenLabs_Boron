@@ -1,4 +1,6 @@
-1 [Settings]
+ Boron - My GTK Settings
+ 
+ 1 [Settings]
  2 gtk-theme-name=Boron-aqua
  3 gtk-icon-theme-name=Numix-Bunsen-Circle-aqua
  4 gtk-font-name=Sans 12  # Changed from 10 to 12
